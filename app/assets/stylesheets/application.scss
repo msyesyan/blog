@@ -1,0 +1,17 @@
+@import 'zen-garden-dave-shea';
+
+header {
+  /*background-image: url(daisy-avatar.jepg);*/
+  .avatar {
+    position: absolute;
+    width: 5em;
+    top: 112px;
+    left: 188px;
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      border-radius: 50%;
+    }
+  }
+}
